@@ -1,0 +1,6 @@
+{
+  "name": "Peixaria W & M",
+  "description": "A high-end, immersive landing page for Peixaria W & M, showcasing fresh fish, family traditions, and services with cinema-style parallax scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
